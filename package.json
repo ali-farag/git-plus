@@ -44,6 +44,7 @@
   },
   "devDependencies": {
     "lint": "^1.1.2",
+    "prettier": "^1.5.2",
     "quibble": "^0.3.0"
   }
 }
